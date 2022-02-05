@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe.config
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csprojAssemblyReference.cache
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.Form1.resources
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.Properties.Resources.resources
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.GenerateResource.cache
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.exe
+C:\Users\user\Desktop\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.pdb
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe.config
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csprojAssemblyReference.cache
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.Form1.resources
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.Properties.Resources.resources
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.GenerateResource.cache
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.exe
+C:\Users\user\Desktop\p\rockpaperscissors\rockpaperscissors\obj\Debug\rockpaperscissors.pdb
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\bin\Debug\rockpaperscissors.exe.config
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\obj\Debug\rockpaperscissors.csprojAssemblyReference.cache
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\obj\Debug\rockpaperscissors.Form1.resources
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\obj\Debug\rockpaperscissors.Properties.Resources.resources
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\obj\Debug\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\obj\Debug\rockpaperscissors.exe
+C:\Users\user\Desktop\OneDrive\DAMELIN 3RD YEAR\Assignments_SEMESTER_1\programing Assignment 3A SEM_1\Question3\rockpaperscissors\obj\Debug\rockpaperscissors.pdb
